@@ -14,4 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-ghizzi)](https://github.com/joao-ghizzi/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-ghizzi&layout=compact&langs_count=7&theme=transparent"/>
+</div>
