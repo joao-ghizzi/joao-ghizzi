@@ -8,8 +8,8 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true"
-    media="(prefers-color-scheme: transparent), (prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true" />
 </picture>
