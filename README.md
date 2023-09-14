@@ -1,5 +1,5 @@
 ### Hi meu nome é João👋
-- 🔭 CUrsando Análise e Desenvolvimento de Sistemas
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Eu estou estudando Python, HTML e CSS
 
 <picture>
@@ -9,7 +9,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: transparent), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true" />
 </picture>
