@@ -4,9 +4,6 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=joao-ghizzi&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
